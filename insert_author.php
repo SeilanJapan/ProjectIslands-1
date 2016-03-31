@@ -4,6 +4,8 @@
 	require('db_conn.php');
 	require('header.php');
 	require('test_input.php');
+	
+	//INSERT AUTHOR FORM
 
 	echo '<div class="col-md-10 col-md-offset-1">';
 			echo '<h2 class="text-center text-success">AUTHOR</h2>';
